@@ -2,8 +2,8 @@ require('dotenv').config();
 const express = require('express');
 const app = express();
 const axios = require('axios')
-const BOT_TOKEN = process.env.BOT_TOKEN;
-const guildid = "" // id serwera na którym jest bot
+const BOT_TOKEN = process.env.MTMxMDMzODI4NTMxMDMxMjQ5OQ.GQ2nMW.zVRN_gFalFojUVTfx-VK5eXH6ZItBltJIByJE8;
+const guildid = "1310341866247422053" // id serwera na którym jest bot
 
 
 const PORT = process.env.PORT || 5000;
